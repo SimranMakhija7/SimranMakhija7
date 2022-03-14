@@ -7,7 +7,23 @@ I am a:
 - Gold Microsoft Learn Student Ambassador
 - GitHub Campus Expert
 
-You can reach me at:
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranMakhija7&theme=github_dark&layout=compact&hide_border=true" /></a>
+
+
+# Tools and Tech I've worked with
+- Java
+- C++
+- AWS
+- Azure
+- ReactJS
+- MySQL
+- NodeJS
+- Firebase
+- Terraform
+- GatsbyJS
+- Netlify
+
+# You can reach me at:
 - [LinkedIn](https://www.linkedin.com/in/simran-makhija)
 - [Twitter](https://twitter.com/justdev_sim)
 - [Email](mailto:simran.makhija2@gmail.com)
