@@ -1,7 +1,8 @@
 # Hi! I am Simran Makhija 👋
 I am a:
-- Software Engineering Intern at Goldman Sachs
-- Computer Science Engineeering student at SGSITS, Indore.
+- Master Software Engineering student at CMU
+- Ex-Software Engineer at Goldman Sachs
+- Computer Science Engineeering graduate from SGSITS, Indore.
 - Web Development enthusiast
 - National Winner[Education] at Imagine Cup 2021
 - Gold Microsoft Learn Student Ambassador
