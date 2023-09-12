@@ -1,6 +1,6 @@
 # Hi! I am Simran Makhija 👋
 I am a:
-- Master Software Engineering student at CMU
+- Master of Software Engineering student at CMU
 - Ex-Software Engineer at Goldman Sachs
 - Computer Science Engineeering graduate from SGSITS, Indore.
 - Web Development enthusiast
