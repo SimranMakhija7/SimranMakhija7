@@ -2,7 +2,7 @@
 I am a:
 - Master of Software Engineering student at CMU
 - Ex-Software Engineer at Goldman Sachs
-- Computer Science Engineeering graduate from SGSITS, Indore.
+- Computer Science Engineering graduate from SGSITS, Indore.
 - Web Development enthusiast
 - National Winner[Education] at Imagine Cup 2021
 - Gold Microsoft Learn Student Ambassador
